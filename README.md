@@ -10,4 +10,4 @@ Original ideas initially depicted in [DataLad](http://datalad.org) [issue](https
  - tooling to communicate with various platforms (e.g. github) to feed those templates into issues/PRs/etc
  - possibly centralize (setuptools entry points) listing of community resources for installed Python projects
 
-An additional idea which might not be the best fit here, since more inline with [DueCredit](http://duecredit.org) project, is [modular auto usage submission](https://github.com/datalad/datalad/issues/2906] -- to annonimously and volunteraly provide project feedback on which functionality is used within the project.
+An additional idea which might not be the best fit here, since more inline with [DueCredit](http://duecredit.org) project, is [modular auto usage submission](https://github.com/datalad/datalad/issues/2906) -- to annonimously and volunteraly provide project feedback on which functionality is used within the project.
